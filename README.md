@@ -1,4 +1,5 @@
 # HomeObjectOntology
+created by @satoshinishimura2460  
 ## 動画アーカイブからのオブジェクト種の収集
 - **対象動画**  
 安全工学の専門家が抽出した事故の起きそうなシーンを含む動画：397 (2021/10/22時点)  
